@@ -34,5 +34,19 @@
 # print(helloworld)
 
 
-# Lesson 3: Lists
+# Video: freeCodeCamp 4hrs Video on Python
+# Time Stamp = 27:10 - 38:57 = STRINGS
+
+# print("Giraffe Academy")
+# string  = "Giraffe Academy"
+# print(string.upper().isupper())
+
+# print(len(string))
+# print(string[3].upper())
+# print(string.index(string[3].upper()))
+# print(string.index("affe"))
+# print(string.replace("affe", "AFFE"))
+# print(string)
+
+# Time Stamp = 40:00 - 48:30 = NUMBERS
 
